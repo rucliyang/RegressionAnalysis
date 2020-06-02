@@ -11,20 +11,20 @@ The slides can be downloaded at the website of Renmin University Press.
 
 Content
 
-Chap1
+Chap1 Introduction
 
-Chap2
+Chap2 Single General Linear Regression 
 
-Chap3
+Chap3 Multiple General Linear Regression
 
-Chap4
+Chap4 Diagonistics
 
-Chap5
+Chap5 Multicollinearity
 
-Chap6
+Chap6 Model Selection
 
-Chap7
+Chap7 Generalized Linear Regression
 
-Chap8
+Appendix
 
 #################################################################################
