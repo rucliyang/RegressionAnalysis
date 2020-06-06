@@ -1,7 +1,7 @@
 
-sample code and data for the textbook entitled Regression Analysis
+We uploaded the sample code and data for the textbook entitled Regression Analysis.
 
-We uploaded the sample code and data for each chaper.
+Illustrative examples in both R and SPSS are available.
 
 It is for the textbook (v1.0) which is authored by Yang Li and Cunjie Lin in 2021.
 
